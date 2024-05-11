@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-Sou Maria Eduarda, entusiasta da tecnologia e estudante de Ciência da Computação. Estou constantemente buscando aprender e crescer neste universo da programação.
+Sou Maria Eduarda, entusiasta da tecnologia e estudante de Ciência da Computação. Estou constantemente buscando aprender e crescer no universo da programação.
 
 - 🌱 Atualmente, estou aprendendo JavaScript, Programação Mobile e Mineração de Dados em Python.
 - 👯 Estou sempre à procura de oportunidades para contribuir com projetos de código aberto.
-- 💬 Estou disponível para trocar ideias sobre programação, discutir novas tendências ou até mesmo bater papo sobre nossos projetos.
+- 💬 Estou disponível para trocar ideias sobre programação, discutir novas tendências ou até mesmo conversar sobre projetos.
 - 📫 Como me contatar: maria.ggianisella@gmail.com.
 
 ## Linguagens e Ferramentas
