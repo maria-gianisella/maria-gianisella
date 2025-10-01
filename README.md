@@ -20,9 +20,6 @@ Sou Maria Eduarda, entusiasta da tecnologia e estudante de Ciência da Computaç
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-gianisella&theme=transparent&bg_color=FF69B4&border_color=fff&show_icons=true&icon_colorfff&title_color=fff&text_color=FFF&hide_title=true&hide=stars)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maria-gianisella&layout=compact&bg_color=FF69B4&border_color=FFF&title_color=FFF&text_color=FFF)
-
-
 ## Conecte-se Comigo
 
 Você pode me encontrar nessas plataformas:
