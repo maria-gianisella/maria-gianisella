@@ -2,23 +2,19 @@
 
 ## Sobre mim
 
-Sou Maria Eduarda, entusiasta da tecnologia e estudante de Ciência da Computação. Estou constantemente buscando aprender e crescer no universo da programação.
+Sou Maria Eduarda Gianisella, Bacharel em Ciência da Computação pela UTFPR e atuo como desenvolvedora de software, com foco em aplicações web. Tenho experiência em frontend com Angular e TypeScript, e em backend com Node.js e Python.
 
-- 🌱 Atualmente, estou aprendendo JavaScript, Programação Mobile e Mineração de Dados em Python.
-- 👯 Estou sempre à procura de oportunidades para contribuir com projetos de código aberto.
-- 💬 Estou disponível para trocar ideias sobre programação, discutir novas tendências ou até mesmo conversar sobre projetos.
-- 📫 Como me contatar: maria.ggianisella@gmail.com.
+Participei de projetos acadêmicos e profissionais que envolvem inteligência artificial, visão computacional e ciência de dados, aplicando TensorFlow, scikit-learn e redes neurais em diferentes soluções. Gosto de aprender continuamente, colaborar em projetos e explorar novas tecnologias que unem inovação e impacto prático.
+
+- Interesse especial em IA, visão computacional e machine learning.
+- Contato: maria.ggianisella@gmail.com
 
 ## Linguagens e Ferramentas
 
 - Linguagens de Programação:
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- Ferramentas de Desenvolvimento: ![Git](https://img.shields.io/badge/GIT-FF69B4?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=figma) 	![Vscode](https://img.shields.io/badge/Vscode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
-- Bancos de Dados: ![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-gianisella&theme=transparent&bg_color=FF69B4&border_color=fff&show_icons=true&icon_colorfff&title_color=fff&text_color=FFF&hide_title=true&hide=stars)
+![Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white) [![CSS](https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge&logo=css&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=fff)](#) 
+- Frameworks e Ferramentas de Desenvolvimento: ![Git](https://img.shields.io/badge/GIT-FF69B4?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=figma) ![Vscode](https://img.shields.io/badge/Vscode-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white) [![Postman](https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=white)](#) [![Angular](https://img.shields.io/badge/Angular-FF69B4.svg?style=for-the-badge&logo=angular&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=fff)](#) [![Keras](https://img.shields.io/badge/Keras-FF69B4?style=for-the-badge&logo=keras&logoColor=fff)](#) [![Nest](https://img.shields.io/badge/Nest.js-FF69B4.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-FF69B4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+- Bancos de Dados: ![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white) [![Postgres](https://img.shields.io/badge/Postgres-FF69B4.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 ## Conecte-se Comigo
 
